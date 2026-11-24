@@ -19,3 +19,6 @@ def eventi():
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", port=5000)
+
+
+# Test: modifica fatta solo per provare a fare una merge request
