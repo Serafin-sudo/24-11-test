@@ -1,0 +1,5 @@
+# local variables
+.env
+# cache di Python
+__pycache__/
+*.pyc
